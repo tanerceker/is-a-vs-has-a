@@ -1,6 +1,6 @@
 <br/>
 
-# is-a vs has-a
+# is-a vs. has-a
 
 Nesne-yönelimli programlamada (OOP) "is-a" ve "has-a" ilişkileri, sınıflar ve nesneler arasındaki ilişkileri modellemek için kullanılan temel kavramlardır. Bu ilişkiler, sınıfların ve nesnelerin birbirleriyle nasıl etkileşime girdiğini tanımlamaya yardımcı olur. Bu kavramları Typescript kullanarak açıklayacağım ve bunları göstermek için birçok örnek vereceğim.
 
@@ -137,7 +137,6 @@ console.log(john.getJobInfo());
 
 Bu örnekte, Employee sınıfı Person'ın bir alt sınıfıdır (subclass) ("is-a" ilişkisini temsil eder). Ve iç yapısının bir parçası olarak bir Job nesnesine sahiptir ("has-a" ilişkisini temsil eder).
 
-<br/>
 <br/>
 
 Tüm bu örnekler, sınıflar arasındaki farklı ilişki türlerini modellemek için Typescript'te
