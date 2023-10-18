@@ -78,10 +78,10 @@ Bu örnekte, Car sınıfının Engine sınıfıyla bir "has-a" ilişkisi vardır
 
 **Not:** Yukarıdaki kod bloğu tamamen konu anlatımını netleştirmek için basit tutulmuştur. Ancak ileri düzeyde bazı sorunlar yaratmaktadır;
 
-1. Yapıcıdaki (constructor) engine değişkeni sıkı bağlantı (tight coupled) sorunu yaratmaktadır.
+1. Yapıcıdaki (constructor) engine değişkeni sıkı bağlantı (tight coupling) sorunu yaratmaktadır.
 2. Engine sınıfı somut bir uygulamadır (concrete implementation) buda aslında genel olarak bir başka sorundur.
 
-SOLID ilkelerini kullanarak tüm bu sorunların üstesinden gelebilir, gevşek bağlantı (loose coupled) ve soyut uygulama (abstract implementation) sağlayabiliriz.
+SOLID ilkelerini kullanarak tüm bu sorunların üstesinden gelebilir, gevşek bağlantı (loose coupling) ve soyut uygulama (abstract implementation) sağlayabiliriz.
 
 <br/>
 
