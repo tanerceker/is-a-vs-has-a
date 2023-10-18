@@ -38,7 +38,7 @@ console.log(myDog.name); // Output: Buddy
 myDog.makeSound(); // Output: Dog barks
 ```
 
-Bu örnekte, Dog, Animal'ın bir alt sınıfıdır (subclass). Name özelliğini ve makeSound yöntemini Animal'dan kalıtım (inheritance) alır. Dog sınıfındaki makeSound yöntemi Animal sınıfındaki makeSound yönteminı geçersiz kılar (override) ve kendi mantığını uygulamasını sağlar.
+Bu örnekte, Dog, Animal'ın bir alt sınıfıdır (subclass). Name özelliğini ve makeSound yöntemini Animal'dan kalıtım-miras (inheritance) alır. Dog sınıfındaki makeSound yöntemi Animal sınıfındaki makeSound yöntemini geçersiz kılar (override) ve kendi mantığını uygulamasını sağlar.
 
 <br/>
 
