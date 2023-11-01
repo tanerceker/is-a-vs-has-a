@@ -141,7 +141,3 @@ Bu örnekte, Employee sınıfı Person'ın bir alt sınıfıdır (subclass) ("is
 
 Tüm bu örnekler, sınıflar arasındaki farklı ilişki türlerini modellemek için Typescript'te
 "is-a" (inheritance — kalıtım) ve "has-a" (composition — bileşim) ilişkilerinin nasıl kullanılacağını göstermektedir.
-
----
-
-— Taner Çeker tarafından hazırlanmıştır.
