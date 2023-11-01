@@ -2,7 +2,7 @@
 
 # is-a vs. has-a
 
-Nesne-yönelimli programlamada (OOP) "is-a" ve "has-a" ilişkileri, sınıflar ve nesneler arasındaki ilişkileri modellemek için kullanılan temel kavramlardır. Bu ilişkiler, sınıfların ve nesnelerin birbirleriyle nasıl etkileşime girdiğini tanımlamaya yardımcı olur. Bu kavramları Typescript kullanarak açıklayacağım ve bunları göstermek için örnekler vereceğim.
+Nesne-yönelimli programlamada (OOP) "is-a" ve "has-a" ilişkileri, sınıflar ve nesneler arasındaki ilişkileri modellemek için kullanılan temel kavramlardır. Bu ilişkiler, sınıfların ve nesnelerin birbirleriyle nasıl etkileşime girdiğini tanımlamaya yardımcı olur. Bu kavramları Typescript kullanarak açıklayacağım ve örnekler vereceğim.
 
 <br/>
 
